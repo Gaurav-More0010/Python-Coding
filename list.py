@@ -16,10 +16,22 @@ number = [10,0,-1,9,6]
 # number.append(12)
 # print(number)
 
-number.insert(2,15)
-print(number)
-number.extend([19,21,24,27])
-print(number)
+# number.insert(2,15)
+# print(number)
+# number.extend([19,21,24,27])
+# print(number)
+#accessing/traversing a list
+ 
+shoppingList = ['Milk','Cheese','Butter']
+print(shoppingList[0])
+
+
+
+
+
+
+
+
 
 
 
